@@ -1,0 +1,6 @@
+{
+  "name": "VidyaSetu - Comprehensive School ERP & Smart Timetable System",
+  "description": "Complete school management portal covering accreditation, staff onboarding with skill mapping, labs, 15 grades and 4 sections, student registry, bus transport fleet, multi-slab fees management, comprehensive payroll, and auto-scheduling smart timetable with daily attendance-based substitution and in-charge approval workflow.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
